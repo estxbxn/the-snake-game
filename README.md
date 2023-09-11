@@ -37,8 +37,7 @@ Suivez ces étapes pour déployer votre propre version du jeu "The Snake Game".
 
 ## 🤝 Contribution
 
-Nous accueillons les contributions ! Si vous souhaitez contribuer à ce projet, consultez notre *
-*[Guide de contribution](https://github.com/estxbxn/the-snake-game/CONTRIBUTING.md)**.
+Nous accueillons les contributions ! Si vous souhaitez contribuer à ce projet, consultez notre **[Guide de contribution](https://github.com/estxbxn/the-snake-game/CONTRIBUTING.md)**.
 
 ## 📝 Licence
 
