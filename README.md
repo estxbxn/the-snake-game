@@ -26,7 +26,12 @@ Suivez ces étapes pour déployer votre propre version du jeu "The Snake Game".
    npm install
    ```
 
-4. Votre jeu sera disponible à l'adresse **http://localhost:3000**
+4. **Lancez** le projet :
+   ```bash
+   npm run deploy
+   ```
+
+5. Votre jeu sera disponible à l'adresse **http://localhost:3000**
 
 ## 🧰 Outils Utilisés
 
